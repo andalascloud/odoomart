@@ -1,0 +1,6 @@
+{
+  "name": "OdooMart",
+  "description": "Aplikasi e-commerce Odoo 20 Community dengan keranjang belanja real-time, manajemen inventaris, notifikasi push status pesanan, dan gateway pembayaran lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OdooMart</string>
+    <string name="nav_catalog">Katalog</string>
+    <string name="nav_inventory">Inventaris</string>
+    <string name="nav_cart">Keranjang</string>
+    <string name="nav_orders">Pesanan</string>
+    <string name="nav_account">Akun</string>
+    <string name="notif_channel_id">odoomart_order_updates</string>
+    <string name="notif_channel_name">Pembaruan Status Pesanan</string>
+    <string name="notif_channel_desc">Notifikasi push real-time untuk status pesanan, pembayaran, dan pengiriman Odoo 20.</string>
+    <string name="error_odoo_not_configured">Server Odoo 20 Community belum terhubung. Masuk dengan akun Odoo Anda atau atur konfigurasi di panel Secrets.</string>
+    <string name="error_payment_not_configured">Kunci Gateway Pembayaran belum diatur di Secrets AI Studio.</string>
+</resources>
